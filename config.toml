@@ -9,7 +9,7 @@ paginate        = 5
   title       = "DevRomagna"
   subtitle    = "Developer Community della Romagna"
   copyright   = "Released under the MIT license."
-  #authorImage = "logo.png"
+  authorImage = "logo.png"
 
   #"single" or "multi"
   renderType = "single"
