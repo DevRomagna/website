@@ -19,6 +19,6 @@ paginate        = 5
   googleAnalytics = ""
 
   name = "DevRomagna"
-  description = "I developer romagnoli si fanno rete"
+  description = "I developer romagnoli fanno rete"
   pageNotFoundTitle = "404 - Page not found"
 
