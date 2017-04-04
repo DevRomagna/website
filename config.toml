@@ -1,3 +1,24 @@
-baseurl = "http://devromagna.org/"
-title = "We Are DevRomagna"
-languageCode = "it-IT"
+baseurl         = "/"
+theme           = "sp-minimal"
+languageCode    = "it-IT"
+title           = "DevRomagna"
+disqusShortname = ""
+paginate        = 5
+
+[params]
+  title       = "DevRomagna"
+  subtitle    = "Developer Community della Romagna"
+  copyright   = "Released under the MIT license."
+  #authorImage = "logo.png"
+
+  #"single" or "multi"
+  renderType = "single"
+  #"simple" or "original"
+  themeStyle = "simple"
+
+  googleAnalytics = ""
+
+  name = "DevRomagna"
+  description = "I developer romagnoli si fanno rete"
+  pageNotFoundTitle = "404 - Page not found"
+

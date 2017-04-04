@@ -1,2 +1,3 @@
 # Il sito di DevRomagna
-Work in progress.
+- Realizzato con [Hugo](https://gohugo.io)
+- Live at [devromagna.org](https://devromagna.org)
