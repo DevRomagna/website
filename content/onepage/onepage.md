@@ -23,7 +23,6 @@ una community itinerante. Ci incotriamo nelle varie località della Romagna
 a seconda di chi organizza l'evento o di chi ci ospita (aziende o locali
 pubblici come bar, pub e quant'altro).
 
-
 **[Iscriviti subito][1]** per mantenerti informato sui prossimi incontri e poterti poi
 iscrivere a quelli che ti interessano (generalmente sono gratuiti). 
 
@@ -39,9 +38,16 @@ precedenti. Il repository
 [brainstorm](https://github.com/DevRomagna/brainstorm) è invece dedicato alla
 organizzazione e logistica sia della community che dei suoi eventi.
 
+## Incontri passati
+- [Jest - Painless Javascript Testing](https://www.meetup.com/it-IT/DevRomagna/events/238796165/)
+- [GitFlow, Branching Model e Versionamento Semantico](https://www.meetup.com/it-IT/DevRomagna/events/239110404/)
+- [Creare, contribuire e mantenere un progetto Open Source](https://www.meetup.com/it-IT/DevRomagna/events/239382597/)
+
+
 ## Link veloci
 - [Entra nella community!][1]
 - [DevRomagna su GitHub](https://github.com/DevRomagna)
 - [DevRomagna su Facebook](http://facebook.com/DevRomagna)
 - [DevRomagna.org](/)
+
 [1]: http://meetup.com/DevRomagna
