@@ -39,9 +39,11 @@ precedenti. Il repository
 organizzazione e logistica sia della community che dei suoi eventi.
 
 ## Incontri passati
-- [Jest - Painless Javascript Testing](https://www.meetup.com/it-IT/DevRomagna/events/238796165/)
-- [GitFlow, Branching Model e Versionamento Semantico](https://www.meetup.com/it-IT/DevRomagna/events/239110404/)
+- [Bitcoin, come funziona e come sta
+    evolvendo](https://www.meetup.com/it-IT/DevRomagna/events/238853473/)
 - [Creare, contribuire e mantenere un progetto Open Source](https://www.meetup.com/it-IT/DevRomagna/events/239382597/)
+- [GitFlow, Branching Model e Versionamento Semantico](https://www.meetup.com/it-IT/DevRomagna/events/239110404/)
+- [Jest - Painless Javascript Testing](https://www.meetup.com/it-IT/DevRomagna/events/238796165/)
 
 
 ## Link veloci
