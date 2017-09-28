@@ -6,7 +6,7 @@ disqusShortname = ""
 paginate        = 5
 
 [params]
-  title       = "DevRomagna"
+  #title       = "DevRomagna"
   subtitle    = "Developer Community della Romagna"
   copyright   = "Released under the MIT license."
   authorImage = "logo.png"
