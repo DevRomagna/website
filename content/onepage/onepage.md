@@ -39,6 +39,14 @@ precedenti. Il repository
 organizzazione e logistica sia della community che dei suoi eventi.
 
 ## Incontri passati
+- [Frameworkless Frontend
+    Development](https://www.meetup.com/it-IT/DevRomagna/events/245313829/)
+- [PHP Test Fest](https://www.meetup.com/it-IT/DevRomagna/events/245283762/)
+- [Introduzione al Go Programming
+    Languange](https://www.meetup.com/it-IT/DevRomagna/events/242114775/)
+- [Git in trincea](https://www.meetup.com/it-IT/DevRomagna/events/240838433/)
+- [Continuous Integration for
+    Dummies](https://www.meetup.com/it-IT/DevRomagna/events/241083496/)
 - [Bitcoin, come funziona e come sta
     evolvendo](https://www.meetup.com/it-IT/DevRomagna/events/238853473/)
 - [Creare, contribuire e mantenere un progetto Open Source](https://www.meetup.com/it-IT/DevRomagna/events/239382597/)
