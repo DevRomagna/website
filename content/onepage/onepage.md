@@ -39,7 +39,7 @@ precedenti. Il repository
 organizzazione e logistica sia della community che dei suoi eventi.
 
 ## Incontri passati
-- [Kanban bel Software Development](https://www.meetup.com/it-IT/DevRomagna/events/247896848/)
+- [Kanban nel Software Development](https://www.meetup.com/it-IT/DevRomagna/events/247896848/)
 - [Chatbots: cosa sono, come si fanno](https://www.meetup.com/it-IT/DevRomagna/events/247045707/)
 - [Frameworkless Frontend
     Development](https://www.meetup.com/it-IT/DevRomagna/events/245313829/)
