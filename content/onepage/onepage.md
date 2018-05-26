@@ -39,7 +39,7 @@ precedenti. Il repository
 organizzazione e logistica sia della community che dei suoi eventi.
 
 ## Incontri passati
-- [Introduzione a Docker][https://www.meetup.com/it-IT/DevRomagna/events/250403502/]
+- [Introduzione a Docker](https://www.meetup.com/it-IT/DevRomagna/events/250403502/)
 - [Machine Learning per comuni mortali](https://www.meetup.com/it-IT/DevRomagna/events/249113255/)
 - [Kanban nel Software Development](https://www.meetup.com/it-IT/DevRomagna/events/247896848/)
 - [Chatbots: cosa sono, come si fanno](https://www.meetup.com/it-IT/DevRomagna/events/247045707/)
