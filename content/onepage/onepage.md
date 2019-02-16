@@ -39,6 +39,8 @@ precedenti. Il repository
 organizzazione e logistica sia della community che dei suoi eventi.
 
 ## Incontri passati
+- [Data visualization con D3.js](https://www.meetup.com/it-IT/DevRomagna/events/256601308/)
+- [Anxiety Driven Development / Perfezionare il public speaking](https://www.meetup.com/it-IT/DevRomagna/events/255195925/)
 - [Introduzione a Docker](https://www.meetup.com/it-IT/DevRomagna/events/250403502/)
 - [Machine Learning per comuni mortali](https://www.meetup.com/it-IT/DevRomagna/events/249113255/)
 - [Kanban nel Software Development](https://www.meetup.com/it-IT/DevRomagna/events/247896848/)
