@@ -39,6 +39,8 @@ precedenti. Il repository
 organizzazione e logistica sia della community che dei suoi eventi.
 
 ## Incontri passati
+- [CQRS/Event Sourcing for real](https://www.meetup.com/it-IT/DevRomagna/events/258490013/)
+- [Elasticsearc for dummies](https://www.meetup.com/it-IT/DevRomagna/events/257990206/)
 - [Data visualization con D3.js](https://www.meetup.com/it-IT/DevRomagna/events/256601308/)
 - [Anxiety Driven Development / Perfezionare il public speaking](https://www.meetup.com/it-IT/DevRomagna/events/255195925/)
 - [Introduzione a Docker](https://www.meetup.com/it-IT/DevRomagna/events/250403502/)
