@@ -1,4 +1,5 @@
 #!/bin/bash
+brew switch hugo 0.20.5
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
@@ -22,3 +23,6 @@ git push origin master
 
 # Come Back
 cd ..
+
+brew switch hugo 0.51
+
