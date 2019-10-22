@@ -39,6 +39,7 @@ precedenti. Il repository
 organizzazione e logistica sia della community che dei suoi eventi.
 
 ## Incontri passati
+- [TypeScript: introduzione e casi d'uso](https://www.meetup.com/it-IT/DevRomagna/events/260307622/)
 - [CQRS/Event Sourcing for real](https://www.meetup.com/it-IT/DevRomagna/events/258490013/)
 - [Elasticsearc for dummies](https://www.meetup.com/it-IT/DevRomagna/events/257990206/)
 - [Data visualization con D3.js](https://www.meetup.com/it-IT/DevRomagna/events/256601308/)
